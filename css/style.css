@@ -163,6 +163,7 @@ header {
     display: flex;
     justify-content: center;
     padding: 0 5px;
+    font-size: 0.8rem
 }
 
 .input-container .text-input,
